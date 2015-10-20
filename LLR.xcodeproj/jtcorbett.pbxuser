@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* LLR */ = {
+		activeExec = 0;
+		executables = (
+			FD2BDE25122D8F3D00652679 /* LLR */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD2BDE25122D8F3D00652679 /* LLR */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LLR */;
+		codeSenseManager = FD2BDE2E122D8F5D00652679 /* Code sense */;
+		executables = (
+			FD2BDE25122D8F3D00652679 /* LLR */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311311428;
+			PBXWorkspaceStateSaveDate = 311311428;
+		};
+		perUserProjectItems = {
+			FD2C5B28128E3F550043278E /* PBXTextBookmark */ = FD2C5B28128E3F550043278E /* PBXTextBookmark */;
+			FD2C5B40128E42170043278E /* PBXTextBookmark */ = FD2C5B40128E42170043278E /* PBXTextBookmark */;
+			FD2C5B46128E42170043278E /* PBXTextBookmark */ = FD2C5B46128E42170043278E /* PBXTextBookmark */;
+			FD2C5B56128E443A0043278E /* PBXTextBookmark */ = FD2C5B56128E443A0043278E /* PBXTextBookmark */;
+			FD2C5B5A128E443A0043278E /* PBXTextBookmark */ = FD2C5B5A128E443A0043278E /* PBXTextBookmark */;
+			FD2C5B61128E45260043278E /* PBXTextBookmark */ = FD2C5B61128E45260043278E /* PBXTextBookmark */;
+			FD2C5B75128EDA740043278E /* PBXTextBookmark */ = FD2C5B75128EDA740043278E /* PBXTextBookmark */;
+			FD2C5B77128EDA740043278E /* PBXTextBookmark */ = FD2C5B77128EDA740043278E /* PBXTextBookmark */;
+			FD2C5B79128EDA740043278E /* PBXTextBookmark */ = FD2C5B79128EDA740043278E /* PBXTextBookmark */;
+			FD2C5B7B128EDA740043278E /* PBXTextBookmark */ = FD2C5B7B128EDA740043278E /* PBXTextBookmark */;
+			FD2C5B7D128EDA740043278E /* PBXTextBookmark */ = FD2C5B7D128EDA740043278E /* PBXTextBookmark */;
+			FD2C5B7F128EDA740043278E /* PBXTextBookmark */ = FD2C5B7F128EDA740043278E /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD2BDE2D122D8F5D00652679 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	851F896F0F78271600A6C185 /* LLR.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1027}}";
+			sepNavSelRange = "{441, 0}";
+			sepNavVisRange = "{864, 1438}";
+		};
+	};
+	FD2BDE25122D8F3D00652679 /* LLR */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LLR;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FD2BDE2D122D8F5D00652679 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FD2BDE2E122D8F5D00652679 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD2C5B28128E3F550043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B29128E3F550043278E /* WIP.mm */;
+		rLen = 0;
+		rLoc = 9223372036854775962;
+		rType = 0;
+	};
+	FD2C5B29128E3F550043278E /* WIP.mm */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = WIP.mm;
+		path = /Developer/mscompile/WIP/classes/WIP.mm;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 728}}";
+			sepNavSelRange = "{1409, 0}";
+			sepNavVisRange = "{323, 1111}";
+		};
+	};
+	FD2C5B2F128E3F550043278E /* SBFolder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBFolder.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBFolder.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 988}}";
+			sepNavSelRange = "{762, 12}";
+			sepNavVisRange = "{834, 1703}";
+		};
+	};
+	FD2C5B40128E42170043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B41128E42170043278E /* SBFolderIcon.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	FD2C5B41128E42170043278E /* SBFolderIcon.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBFolderIcon.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBFolderIcon.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B46128E42170043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B47128E42170043278E /* SBIconsIntoFolderAnimationContext.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	FD2C5B47128E42170043278E /* SBIconsIntoFolderAnimationContext.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBIconsIntoFolderAnimationContext.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBIconsIntoFolderAnimationContext.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B56128E443A0043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B2F128E3F550043278E /* SBFolder.h */;
+		name = "SBFolder.h: 27";
+		rLen = 12;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 1630;
+		vrLoc = 496;
+	};
+	FD2C5B5A128E443A0043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B5B128E443A0043278E /* SBSearchView.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	FD2C5B5B128E443A0043278E /* SBSearchView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBSearchView.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBSearchView.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B61128E45260043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B62128E45260043278E /* SBSearchModel.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	FD2C5B62128E45260043278E /* SBSearchModel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBSearchModel.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBSearchModel.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B75128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B76128EDA740043278E /* WIP.mm */;
+		name = "WIP.mm: 52";
+		rLen = 0;
+		rLoc = 1409;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 323;
+	};
+	FD2C5B76128EDA740043278E /* WIP.mm */ = {
+		isa = PBXFileReference;
+		name = WIP.mm;
+		path = /Developer/mscompile/WIP/classes/WIP.mm;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B77128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B78128EDA740043278E /* SBFolder.h */;
+		name = "SBFolder.h: 27";
+		rLen = 12;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 1703;
+		vrLoc = 834;
+	};
+	FD2C5B78128EDA740043278E /* SBFolder.h */ = {
+		isa = PBXFileReference;
+		name = SBFolder.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBFolder.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B79128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B7A128EDA740043278E /* SBIconsIntoFolderAnimationContext.h */;
+		name = "SBIconsIntoFolderAnimationContext.h: 23";
+		rLen = 13;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	FD2C5B7A128EDA740043278E /* SBIconsIntoFolderAnimationContext.h */ = {
+		isa = PBXFileReference;
+		name = SBIconsIntoFolderAnimationContext.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBIconsIntoFolderAnimationContext.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B7B128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B7C128EDA740043278E /* SBFolderIcon.h */;
+		name = "SBFolderIcon.h: 27";
+		rLen = 17;
+		rLoc = 776;
+		rType = 0;
+		vrLen = 1479;
+		vrLoc = 127;
+	};
+	FD2C5B7C128EDA740043278E /* SBFolderIcon.h */ = {
+		isa = PBXFileReference;
+		name = SBFolderIcon.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBFolderIcon.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B7D128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B7E128EDA740043278E /* SBSearchView.h */;
+		name = "SBSearchView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1874;
+		vrLoc = 470;
+	};
+	FD2C5B7E128EDA740043278E /* SBSearchView.h */ = {
+		isa = PBXFileReference;
+		name = SBSearchView.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBSearchView.h;
+		sourceTree = "<absolute>";
+	};
+	FD2C5B7F128EDA740043278E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD2C5B80128EDA740043278E /* SBSearchModel.h */;
+		name = "SBSearchModel.h: 44";
+		rLen = 14;
+		rLoc = 1467;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 4;
+	};
+	FD2C5B80128EDA740043278E /* SBSearchModel.h */ = {
+		isa = PBXFileReference;
+		name = SBSearchModel.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/SpringBoard/SBSearchModel.h;
+		sourceTree = "<absolute>";
+	};
+}

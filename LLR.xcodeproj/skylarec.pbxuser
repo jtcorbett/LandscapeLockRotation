@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* LLR */ = {
+		activeExec = 0;
+		executables = (
+			85198FE20F780FA700C450C3 /* LLR */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 85198FE20F780FA700C450C3 /* LLR */;
+		activeSDKPreference = iphoneos2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LLR */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LLR */,
+		);
+		codeSenseManager = 85198EB70F780B5800C450C3 /* Code sense */;
+		executables = (
+			85198FE20F780FA700C450C3 /* LLR */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 259532783;
+			PBXWorkspaceStateSaveDate = 259532783;
+		};
+		perUserProjectItems = {
+			85198F960F780E5E00C450C3 /* PBXTextBookmark */ = 85198F960F780E5E00C450C3 /* PBXTextBookmark */;
+			85198F9C0F780E5E00C450C3 /* PBXTextBookmark */ = 85198F9C0F780E5E00C450C3 /* PBXTextBookmark */;
+			851990670F78118600C450C3 /* PBXTextBookmark */ = 851990670F78118600C450C3 /* PBXTextBookmark */;
+			851F89710F78272800A6C185 /* PBXTextBookmark */ = 851F89710F78272800A6C185 /* PBXTextBookmark */;
+			851F89790F78279B00A6C185 /* PlistBookmark */ = 851F89790F78279B00A6C185 /* PlistBookmark */;
+			851F897B0F78279B00A6C185 /* PBXTextBookmark */ = 851F897B0F78279B00A6C185 /* PBXTextBookmark */;
+			851F897C0F78279B00A6C185 /* PlistBookmark */ = 851F897C0F78279B00A6C185 /* PlistBookmark */;
+			851F89E50F7827EC00A6C185 /* PBXTextBookmark */ = 851F89E50F7827EC00A6C185 /* PBXTextBookmark */;
+			851F89EF0F7827F200A6C185 /* PBXTextBookmark */ = 851F89EF0F7827F200A6C185 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 85198EB60F780B5800C450C3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* LLR_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {648, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 203}";
+			sepNavWindowFrame = "{{153, 70}, {1311, 827}}";
+		};
+	};
+	85198EB60F780B5800C450C3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	85198EB70F780B5800C450C3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	85198F960F780E5E00C450C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85198F970F780E5E00C450C3 /* TestDylib_Prefix.pch */;
+		name = "TestDylib_Prefix.pch: 6";
+		rLen = 38;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	85198F970F780E5E00C450C3 /* TestDylib_Prefix.pch */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TestDylib_Prefix.pch;
+		path = "/Users/skylarec/Documents/iPhone apps/TestDylib/TestDylib_Prefix.pch";
+		sourceTree = "<absolute>";
+	};
+	85198F9C0F780E5E00C450C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85198F9D0F780E5E00C450C3 /* TestDylib_Prefix.pch */;
+		name = "TestDylib_Prefix.pch: 6";
+		rLen = 38;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	85198F9D0F780E5E00C450C3 /* TestDylib_Prefix.pch */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TestDylib_Prefix.pch;
+		path = "/Users/skylarec/Documents/iPhone apps/TestDylib/TestDylib_Prefix.pch";
+		sourceTree = "<absolute>";
+	};
+	85198FE20F780FA700C450C3 /* LLR */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "LLR";
+		sourceDirectories = (
+		);
+	};
+	851990670F78118600C450C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* LLR_Prefix.pch */;
+		name = "LLR_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	851F896F0F78271600A6C185 /* LLR.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038, 882}}";
+			sepNavSelRange = "{1137, 0}";
+			sepNavVisRange = "{1039, 618}";
+		};
+	};
+	851F89710F78272800A6C185 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* LLR_Prefix.pch */;
+		name = "LLR_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	851F89790F78279B00A6C185 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 851F89770F78276800A6C185 /* LLR-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/MobileSubstrate Dylib/MobileSubstrate Dylib/LLR-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	851F897B0F78279B00A6C185 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851F896F0F78271600A6C185 /* LLR.mm */;
+		name = "LLR.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	851F897C0F78279B00A6C185 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 851F89770F78276800A6C185 /* LLR-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/MobileSubstrate Dylib/MobileSubstrate Dylib/LLR-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	851F89E50F7827EC00A6C185 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851F896F0F78271600A6C185 /* LLR.mm */;
+		name = "LLR.mm: 49";
+		rLen = 0;
+		rLoc = 1137;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 1039;
+	};
+	851F89EF0F7827F200A6C185 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 851F896F0F78271600A6C185 /* LLR.mm */;
+		name = "LLR.mm: 49";
+		rLen = 0;
+		rLoc = 1137;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 1039;
+	};
+}
